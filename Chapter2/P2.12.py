@@ -1,0 +1,5 @@
+#drive_letter = input("Enter the drive letter C,D,E etc: ")
+path = input("Enter the path in unix: ")
+file_name = input("Enter the file name: ")
+extension = input("Enter the file extension as .md,.txt etc: ")
+print(f"full path of {file_name} is /{path}/{file_name}{extension}")

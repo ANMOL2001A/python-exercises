@@ -1,0 +1,1 @@
+print("My fiends are:\n Anmol\n Aayush\n Myself")
